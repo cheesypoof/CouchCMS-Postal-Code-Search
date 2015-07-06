@@ -1,6 +1,6 @@
-# CouchCMS Postal Code Search
+# [CouchCMS](http://www.couchcms.com/) Postal Code Search
 
-This is a postal code search (store locator) feature example for [CouchCMS](http://www.couchcms.com/).
+A postal code search (store locator) implementation.
 
 ## Usage
 1. Acquire a postal code database for your country that contains latitude and longitude coordinates. You may find such databases at [GeoNames](http://www.geonames.org/).
